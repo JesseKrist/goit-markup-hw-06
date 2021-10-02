@@ -876,6 +876,7 @@ textarea:focus-visible {
 
 .icon-check-active,
 .icon-check-box {
+  margin-left: 12px;
   cursor: pointer;
 }
 
